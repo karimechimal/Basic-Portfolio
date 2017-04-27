@@ -189,26 +189,26 @@ input[type="submit"]{
 	font-family:'Georgia', Times, Times New Roman, serif;
 }
 #travel{
-	background-image:url("assets/images/traveling.jpg");
+	background-image:url("../../assets/images/traveling.jpg");
 	background-size: cover;
 	margin-left: 45px;
 	margin-bottom: 55px;
 }
 
 #baking{
-	background-image:url("assets/images/baking.jpg");
+	background-image:url("../../assets/images/baking.jpg");
 	background-size: cover;
 	margin-left: 45px;
 	margin-bottom: 55px;
 }
 #crossfit{
-	background-image:url("assets/images/crossfit.jpg");
+	background-image:url("../../assets/images/crossfit.jpg");
 	background-size: cover;
 	margin-left: 45px;
 	margin-bottom: 55px;
 }
 #volleyball{
-	background-image:url("assets/images/volleyball.jpg"); 
+	background-image:url("../../assets/images/volleyball.jpg"); 
 	background-size: cover;
 	margin-left: 45px;
 	margin-bottom: 55px;
