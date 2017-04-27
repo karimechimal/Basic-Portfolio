@@ -208,7 +208,7 @@ input[type="submit"]{
 	margin-bottom: 55px;
 }
 #volleyball{
-	background-image:url("../../assets/images/volleyball.jpg"); 
+	background-image:url("../../assets/images/traveling.jpgvolleyball.jpg"); 
 	background-size: cover;
 	margin-left: 45px;
 	margin-bottom: 55px;
@@ -224,6 +224,11 @@ footer {
 	text-align: center;
 	clear:both;
 	background-color: #666666;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	padding: 1rem;
+	position: absolute;
 }
 
 footer p{
