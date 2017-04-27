@@ -1,0 +1,233 @@
+
+
+a{
+	text-decoration: none;
+	color:#777777;
+}
+body{
+	background-image: url("http://www.htmlcsscolor.com/preview/gallery/FFFFCC.png");
+	background-size:no-repeat;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	color:#777777;
+	margin:0;
+	padding:0;
+
+
+}
+/** headers **/
+h1{
+	font-family:'Georgia', Times, Times New Roman, serif;
+}
+h2{
+	font-family:'Georgia', Times, Times New Roman, serif;
+}
+
+.bar{
+	width: 960px;
+	margin:auto;
+}
+
+header{
+	background-color: #ffffff;
+	border-bottom: solid 1px;
+	margin-bottom: 30px;
+	border-color:#CCCCCC;
+	width:100%;
+	height:85px;
+	padding:0;
+}
+
+header h1{
+	color:#ffffff;
+	background-color: #4aaaa5;
+	padding:15px;
+	float:left;
+	margin-top: 0px;
+	margin-bottom:0px;
+	height:55px;
+}
+
+ul{
+	float: right;
+	list-style: none;
+	margin-right:50px;
+}
+
+ul li{
+	display:inline-block;
+	margin-top: 5%;
+	padding-right:7px;
+	color:#dddddd;
+}
+
+.one{
+	border-right: 1px solid #CCCCCC;
+}
+ 
+
+aside{
+	width:25%;
+	height:27%;
+	text-align: center;
+	clear:both;
+	float:right;
+	background-color:#ffffff;
+	border:solid 1px;
+	border-color:#dddddd;
+	padding-bottom: 25px;
+}
+
+aside h2{
+	color:#4aaaa5;
+	border-bottom: solid 2px #EEEEEE;
+	width:200px;
+	font-size: 20px;
+	margin-left: 20px;
+	margin-bottom: 10px;
+	padding-bottom: 13px;
+}
+
+aside img{
+	width:57px;
+	height:57px;
+	display:inline-block;
+
+}
+
+/** body and index**/
+
+.whole
+{
+	width:960px;
+	margin:auto;
+}
+section{
+	width:70%;
+	clear:left;
+	float:left;
+	margin-right: 30px;
+	margin-bottom: 30px;
+	background-color:#ffffff;
+	height::;%;
+}
+
+section h2{
+	color:#4aaaa5;
+	border-bottom: solid 2px #EEEEEE;
+	width:550px;
+	margin-bottom: 10px;
+	padding-bottom: 13px;
+}
+
+
+section img {
+	float:left;
+	padding :12px;
+	width:150px;
+	height:150px;
+		
+}
+
+.content{
+	width:600px;
+	margin:30px;
+}
+.content h2{
+	color:#4aaaa5;
+	margin-bottom: 20px;
+}
+#small{
+	float:left;
+	width:425px;
+	overflow: auto;
+}
+#large{
+	width:800px;
+}
+/** contact form**/
+
+input{
+	width:100%;
+	margin-top:7px;
+	margin-bottom:10px;
+	margin
+}
+#message{
+	width: 100%;
+	height: 200px;
+	margin-top:7px;
+	margin-bottom:10px;	
+}
+input[type="submit"]{
+	width:115px;
+	height:40px;
+	background-color: #4aaaa5;
+	color:#ffffff;
+	font-size: 15px;
+	border:0;
+}
+/**portfolio page **/
+#ptfl{
+	margin-left:45px;
+}
+
+.portfolio{
+	width:265px;
+	height:200px;
+	display:inline-block;
+	margin-left: 
+}	
+
+.portfolio p{
+	color:#ffffff;
+	background-color: #4aaaa5;
+	text-align: center;
+	font-size: 23px;
+	margin-top:145px;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	font-family:'Georgia', Times, Times New Roman, serif;
+}
+#travel{
+	background-image:url("file:///Users/KarimeChimal/Basic-Portfolio/assets/images/traveling.jpg");
+	background-size: cover;
+	margin-left: 45px;
+	margin-bottom: 55px;
+}
+
+#baking{
+	background-image:url(file:///Users/KarimeChimal/Basic-Portfolio/assets/images/baking.jpg);
+	background-size: cover;
+	margin-left: 45px;
+}
+#crossfit{
+	background-image:url("file:///Users/KarimeChimal/Basic-Portfolio/assets/images/crossfit.jpg");
+	background-size: cover;
+	margin-left: 45px;
+	margin-bottom: 55px;
+}
+#volleyball{
+	background-image:url("file:///Users/KarimeChimal/Basic-Portfolio/assets/images/volleyball.jpg"); 
+	background-size: cover;
+	margin-left: 45px;
+}
+
+
+/**footer**/
+
+footer {
+	width:100%;
+	height:100px;
+	border-top:solid 10px #4aaaa5;
+	text-align: center;
+	clear:both;
+	background-color: #666666;
+}
+
+footer p{
+	margin-top:45px;
+	color:#C5CBB8;
+	font-size:10px;
+}
+
+
